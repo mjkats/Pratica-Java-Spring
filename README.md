@@ -1,4 +1,4 @@
-# Projeto feito para seleção de desenvolvedor back-end java junior de uma empresa #
+# <p align="center"> Projeto feito para seleção de desenvolvedor back-end java junior de uma empresa </p> #
 
 Feito em 3 dias com a utilização de Java e Spring Boot.
 

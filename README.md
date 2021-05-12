@@ -1,6 +1,6 @@
-# Projeto de Seleção Back-End Júnior da Mobicare #
+# Projeto feito para seleção de desenvolvedor back-end java junior de uma empresa #
 
-Feito em java, utilizando Spring Boot como framework.
+Feito em 3 dias com a utilização de Java e Spring Boot.
 
 ## Requisitos ##
 
@@ -9,7 +9,7 @@ Feito em java, utilizando Spring Boot como framework.
 * Maven
 
 ### Requisitos Feitos ###
-* As quatro funcionalidades requisitadas
+* As quatro funcionalidades requisitadas (inserir colaborador, remover colaborador, buscar um colaborador e listar colaboradores agrupados por setor)
 * Listar colaboradores agrupados por setor retorna um DTO com apenas os campos pertinentes
 * Validação para a inserção de dados do colaborador
 * Regras de inserção de um novo colaborador aplicadas
